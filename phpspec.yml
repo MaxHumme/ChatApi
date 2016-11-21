@@ -1,0 +1,7 @@
+suites:
+  default:
+    namespace: MaxHumme\ChatApi
+    psr4_prefix: MaxHumme\ChatApi
+    spec_prefix: spec
+    src_path: %paths.config%/app
+    spec_path: %paths.config%

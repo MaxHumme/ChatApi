@@ -1,0 +1,4 @@
+default:
+  extensions:
+    Behat\WebApiExtension: ~
+    MaxHumme\ChatApi\Framework\BehatExtension: ~
